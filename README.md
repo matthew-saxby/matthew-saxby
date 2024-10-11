@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and Software Development.
 - 🌱 I’m currently learning Pandas, Seaborn, Velocity, and Java.
 - 📫 How to reach me:
-  gmail: matt.saxb@gmail.com
+  gmail: matthewsaxby8@gmail.com
   linkedIn: www.linkedin.com/in/matthew-saxby
 - 👷 I am looking for a job starting in June 2025.
 
