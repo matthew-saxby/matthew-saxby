@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @matthew-saxby !!
 - 💻 I'm a Senior Computer Science Student and a Web Developer at Taylor University.
-- 👀 I’m interested in solutions engineering.
-- 🌱 I’m currently learning Splunk, React, Pandas, Seaborn, Velocity, and Java.
 - 📫 How to reach me:
   gmail: matthewsaxby8@gmail.com
   linkedIn: www.linkedin.com/in/matthew-saxby
